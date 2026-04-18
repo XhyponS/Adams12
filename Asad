@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=ria
+
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=prima
+
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=citra
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="113.astro" ch-number="113" tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="HOT CHANNEL",113 Aura HD (Not 24H)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=rania
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=boo
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=ceria
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="Sports" tvg-logo="https://i.ibb.co/VY44LJxt/Astro-Arena-1-2024.png",801 Arena HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="Sports" tvg-logo="https://i.ibb.co/Zzm43tN8/Astro-Arena-2-2024.png",802 Arena 2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=bola1
+
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=bola2
+
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="Sports",810 Grandstand HD
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=epl1
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=epl2
+
+#EXTINF:-1 tvg-id="AstroPremierLeague3" ch-number="813" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",813 Premier League 3 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="Sports" tvg-logo="https://i.ibb.co/gM7nf1C4/Astro-Football-2024.png",814 Football HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=badminton
+
+#EXTINF:-1 tvg-id="AstroBadminton2" tvg-name="ASSP6 HD" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png" ch-number="816",816 Badminton 2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="https://i.ibb.co/bgJhyJCq/Astro-Sports-Plus-2024.png",817 Sports Plus HD
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroPremierLeague4" tvg-name="AstroPremierLeague4" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" ch-number="818",818 Premier League 4 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroPremierLeague5" tvg-name="AstroPremierLeague5" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" ch-number="819",819 Premier League 5 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
+
+#EXTINF:-1 tvg-id="826.astro" tvg-name="W-Sport" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" ch-number="826",826 W-Sport HD (Not 24H)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
