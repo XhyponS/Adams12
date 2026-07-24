@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-id="Astro Citra" tvg-name="Astro Citra" tvg-logo="https://en.wikipedia.org/wiki/File:Astro_Citra_(2024).png",Astro Citra HD
+http://ktpremium.site:2095/live/QZM197/629ebdk/25852.ts?token=GEFeAEAMEQ5EVgBUVg5fBwJSVgUEAAdWVgNRUFIAA1RTBVAFAFcHVQMRFUcSTBRRUgg6WwEVC1YEBgAETRQXEAYRaQhXRgkWUwUMVFUaShZHDAhXRw0AVgEGBQNRAlRTT0FGCFdGCRZSBg1WWRpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1MPVwMRSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRREUgRWQdLZgYOVghRUBEMXQtEE1sVAhIeQ1sNDQoXWRNsFFpQRAkbVlcMVAARGA==
+
+
+
+
+
 #EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
 https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=ria
 
